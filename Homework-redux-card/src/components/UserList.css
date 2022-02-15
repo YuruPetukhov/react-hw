@@ -1,0 +1,11 @@
+.List{
+    margin: auto;
+    display: flex;
+    width: 300px;
+    margin-bottom: 30px;
+    background-color: aquamarine;
+    justify-content: center;
+    flex-direction: column;
+    
+
+}
